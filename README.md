@@ -27,3 +27,4 @@ A full-stack todo application built with Next.js and PostgreSQL.
 | PUT | `/api/todos/{id}` | Update a todo |
 | DELETE | `/api/todos/{id}` | Delete a todo |
 
+
